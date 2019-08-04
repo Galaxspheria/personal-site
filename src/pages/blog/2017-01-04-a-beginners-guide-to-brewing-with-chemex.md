@@ -1,6 +1,9 @@
 ---
 templateKey: blog-post
 title: A beginners’ guide to brewing with Chemex
+image: /img/chemex.jpg
+color: '#bd10e0'
+blurb: Brewing with a Chemex probably seems like a complicated
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
@@ -9,7 +12,6 @@ description: >-
 tags:
   - brewing
   - chemex
-image: /img/chemex.jpg
 ---
 ![chemex](/img/chemex.jpg)
 
