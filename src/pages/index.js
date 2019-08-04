@@ -19,13 +19,13 @@ export default class IndexPage extends React.Component {
           </div>
           <div className="container">
             <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
+              <h1 className="has-text-weight-bold is-size-2">Projects</h1>
             </div>
+            <div className="product-grid">
             {posts
               .map(({ node: post }) => (
                 <div
-                  className="content"
-                  style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
+                  className="product-parent"
                   key={post.id}
                 >
                   <p>
@@ -43,8 +43,10 @@ export default class IndexPage extends React.Component {
                       Keep Reading →
                     </Link>
                   </p>
+                  <img class="product-preview" src={post.frontmatter.image} />
                 </div>
               ))}
+              </div>
           </div>
         </section>
       </Layout>
@@ -68,7 +70,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength: 400)
+          excerpt(pruneLength: 200)
           id
           fields {
             slug
@@ -77,6 +79,7 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")
+            image
           }
         }
       }
