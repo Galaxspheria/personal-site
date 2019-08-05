@@ -35,8 +35,6 @@ export default class IndexPage extends React.Component {
                 <br/>
                 <h5 className="is-size-5 is-inline-block has-text-weight-normal">I'm a Student, Developer, Designer, and Entrepreneur currently in my second year at Georgia Tech.</h5>
                 <br/>
-                <h5 className="is-size-5 is-inline-block has-text-weight-normal">You can email me <a>here</a> or find my resume <a>here</a>.</h5>
-                <br/>
                 <hr/>
                 <br/>
                 <h5 className="is-size-5 is-inline-block has-text-weight-normal">Here are some of the things I've made:</h5>
