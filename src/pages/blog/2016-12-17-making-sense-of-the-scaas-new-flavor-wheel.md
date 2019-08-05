@@ -1,37 +1,40 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-image: /img/jumbotron.jpg
-color: '#f5a623'
-blurb: The Coffee Taster’s Flavor Wheel has been revised
-date: 2016-12-17T15:04:10.000Z
-description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
+title: Project Shatter
+image: /img/devpostthumb.png
+color: '#00b5ae'
+blurb: Breaking down educational barriers for rural students
+date: 2019-01-27T15:04:10.000Z
+description: Breaking down educational barriers for high school students in rural Georgia.
 tags:
-  - flavor
-  - tasting
+  - react
+  - javascript
+  - firebase
+  - node.js
+  - express.js
 ---
+Project Shatter was created with team Work Better as part of the 2019 [Collegiate Cup](https://www.thecollegiatecup.com/), where we won the People's Choice award in the Coding category.
 
-![flavor wheel](/img/flavor_wheel.jpg)
+![](/img/screen-shot-2019-01-27-at-11.38.18-am.png)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+> Picture this, you are a high school student in Barnesville, Georgia. You work hard, and are one of the top students in your class while also holding a part time job after school. Just like 25% of the children in Georgia, you’ve grown up in poverty, and don’t have access to the internet. You dream of being able to work for America’s biggest tech companies, but your school won’t even teach you AP computer science. It seems that despite your best efforts, there’s a glass ceiling keeping you from reaching your goals. It’s not fair, and it’s why we’ve created Project Shatter.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+![](/img/screen-shot-2019-01-27-at-11.38.29-am.png)
 
-## What the updates mean to you
+> Our project provides the means necessary for students throughout rural Georgia to be successful in the field of Computer Science. It establishes a network within the school systems of these regions that connects these students with companies and nonprofit organizations looking for someone to help with minor, computing related tasks. Students can use the many free resources we provide to improve their abilities and expand their knowledge, opening them up to be hired for more advanced tasks. This allows them to both learn computer science and earn the income their family may depend on.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+![](/img/screen-shot-2019-01-27-at-11.38.38-am.png)
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+> Companies and nonprofit organizations looking for cheap work on small tasks can post a task to the network, allowing students to apply for the job. Those who the company deems best fit for the job are hired, and the students are able to work directly for that company. Through this system all businesses and organizations are able to fulfill their corporate social responsibility, promote diversity, and save money.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+![](/img/screen-shot-2019-01-27-at-11.39.42-am.png)
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+> Our hope is that Project Shatter sets up our students for future success. By giving them the opportunities to gain real world experience and work on real projects, we aim to allow students to get into more prestigious universities and long term employment.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+![](/img/screen-shot-2019-01-27-at-11.39.33-am.png)
+
+> In the future we want to implement a variety of new features to improve the versatility of our product. This includes a direct communication system between students and company representatives, auto-generation of service hour confirmation forms, and the ability for companies to provide their own coding challenges when they post a task to the network.
+
+![](/img/screen-shot-2019-01-27-at-11.48.46-am.png)
+
+View this project on [Devpost](https://devpost.com/software/project-shatter) for further details and screenshots.
