@@ -1,33 +1,28 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: Hidden Features
 image: /img/chemex.jpg
-color: '#bd10e0'
-blurb: Brewing with a Chemex probably seems like a complicated
-date: 2017-01-04T15:04:10.000Z
+color: '#85c232'
+blurb: Highlighting the hidden films and female authors of the Hollywood Studio Era
+date: 2019-03-15T14:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  Hidden Features was created as part of Georgia Tech ENGL 1102. While the
+  entire class collaborated to create content, I took the lead on website
+  development, building the site in React with a team of four other students.
 tags:
-  - brewing
-  - chemex
+  - react
+  - heroku
 ---
-![chemex](/img/chemex.jpg)
+> The purpose of this project was to bring attention to the hidden films and female authors that helped evolve film in the Early Hollywood Studio Era. Our final project is a website that includes a timeline divided by decade from 1910-1960 and pages focusing on the impact of each film within the decade along with background information on the authors. We decided that a website would be the best format to present this information because it is the most accessible to our audience and allows for more design flexibility than a paper format. Several project members also have experience in web design and web development.
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+![](/img/screen-shot-2019-08-04-at-6.06.28-pm.jpg)
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+![](/img/screen-shot-2019-08-04-at-6.06.44-pm.jpg)
 
-## The little secrets of Chemex brewing
+![](/img/screen-shot-2019-08-04-at-6.06.51-pm.jpg)
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+![](/img/screen-shot-2019-08-04-at-6.07.01-pm.jpg)
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+The live site can be viewed [here](https://film-showcase-1102.herokuapp.com/).
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+The GitHub repository can be viewed [here](https://github.com/Galaxspheria/film-showcase-1102).
