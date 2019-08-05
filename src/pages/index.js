@@ -64,7 +64,7 @@ export default class IndexPage extends React.Component {
                     </div>
                   </p>
                   <img class="product-preview" src={post.frontmatter.image} />
-                  <div class="product-color" style={{backgroundColor: post.frontmatter.color}}/>
+                  <div class="product-color" style={{backgroundColor: post.frontmatter.color}}> </div>
                 </Link>
               ))}
               </div>
