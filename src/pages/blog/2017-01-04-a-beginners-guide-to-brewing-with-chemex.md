@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Hidden Features
-image: /img/screen-shot-2019-08-04-at-6.06.28-pm.jpg
+image: /img/6a554a8c55474ee89680752be85161d70ffcabbc-1-.jpg
 color: '#85c232'
 blurb: Highlighting the hidden films and female authors of the Hollywood Studio Era
 date: 2019-03-15T14:04:10.000Z
