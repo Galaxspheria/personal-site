@@ -44,29 +44,28 @@ export default class IndexPage extends React.Component {
           </div>
           {keys.map(year => (
             <div className="container">
-            <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">{year}</h1>
-            </div>
-            <div className="product-grid">
-            {years[year]
-              .map(post => (
-                <Link
-                  className="product-parent"
-                  key={post.id}
-                  to={post.fields.slug}
-                >
-                  <p>
-                    <div className="title is-5 has-text-white">
-                      {post.frontmatter.title}
-                    </div>
-                    <div className="subtitle is-6 has-text-white">
-                      {post.frontmatter.blurb}
-                    </div>
-                  </p>
-                  <img class="product-preview" src={post.frontmatter.image} />
-                  <div class="product-color" style={{backgroundColor: post.frontmatter.color}}> </div>
-                </Link>
-              ))}
+              <div className="content">
+                <h1 className="has-text-weight-bold is-size-2">{year}</h1>
+              </div>
+              <div className="product-grid">
+                {years[year].map(post => (
+                  <Link
+                    className="product-parent"
+                    key={post.id}
+                    to={post.fields.slug}
+                  >
+                    <p>
+                      <div className="title is-5 has-text-white">
+                        {post.frontmatter.title}
+                      </div>
+                      <div className="subtitle is-6 has-text-white">
+                        {post.frontmatter.blurb}
+                      </div>
+                    </p>
+                    <img class="product-preview" src={post.frontmatter.image}></img>
+                    <div class="product-color" style={{backgroundColor: post.frontmatter.color}}></div>
+                  </Link>
+                ))}
               </div>
               <br/>
             </div>
