@@ -9,6 +9,7 @@ description: Branding and web development for a rising media startup.
 tags:
   - bulma
   - wordpress
+  - branding
 ---
 ![](/img/screen-shot-2019-08-04-at-6.59.00-pm.jpg)
 
