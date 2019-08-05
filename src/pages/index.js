@@ -62,9 +62,8 @@ export default class IndexPage extends React.Component {
                         {post.frontmatter.blurb}
                       </div>
                     </p>
-                    <div class="product-color" style={{backgroundColor: post.frontmatter.color}}></div>
                     <img class="product-preview" src={post.frontmatter.image}></img>
-                    <div class="product-color" style={{backgroundColor: post.frontmatter.color}}></div>
+                    <span class="product-color" style={{backgroundColor: post.frontmatter.color}}></span>
                   </Link>
                 ))}
               </div>
