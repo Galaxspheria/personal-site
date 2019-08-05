@@ -9,6 +9,7 @@ description: Intelligent letterboards for nonverbal children on the Autism spect
 tags:
   - arduino
   - fusion360
+  - print design
 ---
 Expreseeva was created with a team of five as part of the 2018-2019 cohort of Georgia Tech's [Grand Challenges](http://grandchallenges.gatech.edu/) program.
 
