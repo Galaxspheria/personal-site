@@ -4,7 +4,7 @@ title: Expreseeva
 image: /img/stand_v1_2019-apr-04_08-41-58pm-000_customizedview16761212674_png.png
 color: '#f0ca3d'
 blurb: Intelligent letterboards for nonverbal children on the Autism spectrum
-date: 2019-08-05T01:19:05.886Z
+date: 2019-04-28T01:19:05.886Z
 description: Intelligent letterboards for nonverbal children on the Autism spectrum.
 tags:
   - arduino
