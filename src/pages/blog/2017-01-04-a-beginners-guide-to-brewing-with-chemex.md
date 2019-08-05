@@ -12,6 +12,7 @@ description: >-
 tags:
   - react
   - heroku
+  - javascript
 ---
 > The purpose of this project was to bring attention to the hidden films and female authors that helped evolve film in the Early Hollywood Studio Era. Our final project is a website that includes a timeline divided by decade from 1910-1960 and pages focusing on the impact of each film within the decade along with background information on the authors. We decided that a website would be the best format to present this information because it is the most accessible to our audience and allows for more design flexibility than a paper format. Several project members also have experience in web design and web development.
 
