@@ -97,6 +97,17 @@ $size-7: .75rem;
 .container
   max-width: 960px !important
 
+.navbar-start
+  display: flex;
+  margin: auto;
+
+@media screen and (min-width: 1088px)
+  .navbar-start
+    margin: 0;
+
+.navbar-end
+  justify-content: flex-end;
+
 // Helper Classes
 .full-width-image-container
   width: 100vw

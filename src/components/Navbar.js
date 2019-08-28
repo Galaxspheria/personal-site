@@ -5,7 +5,7 @@ import logo from '../img/logo.svg'
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
-    <div className="container" style={{flexDirection: 'row'}}>
+    <div className="container" style={{flexDirection: 'row', display: 'flex'}}>
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
