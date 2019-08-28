@@ -44,7 +44,7 @@ $size-7: .75rem;
   display: flex
   flex-wrap: wrap
   justify-content: stretch
-  @media screen and (max-width: 414px)
+  @media screen and (max-width: 425px)
     flex-wrap: nowrap
     overflow-x: scroll
     margin-left: -24px
@@ -52,6 +52,13 @@ $size-7: .75rem;
     padding-left: 24px
     padding-top: 5px
     -webkit-overflow-scrolling: touch
+
+@media screen and (max-width: 425px)
+  .mobile-spacer
+    width: 12px
+    height: 1px
+    opacity: 0
+    flex-shrink: 0
 
 .product-parent
   min-height: 200px

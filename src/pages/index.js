@@ -64,6 +64,7 @@ export default class IndexPage extends React.Component {
                     <span class="product-color" style={{backgroundColor: post.frontmatter.color}}></span>
                   </Link>
                 ))}
+                <div className="mobile-spacer"></div>
               </div>
               <br/>
             </div>
