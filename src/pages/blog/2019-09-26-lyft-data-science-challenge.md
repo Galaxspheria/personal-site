@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-title: Lyft Data Science Challenge
+title: Lyft Data Challenge
 image: /img/screen-shot-2019-09-26-at-6.18.00-pm.jpg
 color: '#ff00bf'
-blurb: >-
-  Synthesizing actionable business recommendations from ride and driver behavior
-  data
+blurb: Synthesizing actionable business recommendations from ride and driver data
 date: 2019-09-26T22:16:54.609Z
 description: >-
   I had the fantastic opportunity to participate in Lyft's 2019 Data Challenge,
