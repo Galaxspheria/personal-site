@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Chaos Colleagues
 image: /img/chaoscolleagues1.png
-color: '#131027'
+color: '#7f1e6d'
 blurb: VR party games without the controller hassle
 date: 2019-10-28T15:49:19.036Z
 description: >-
