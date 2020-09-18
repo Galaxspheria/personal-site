@@ -4,7 +4,7 @@ title: Rodney Smith
 image: /img/rsz_screen_shot_2019-10-09_at_44945_pm.jpg
 color: '#ed2024'
 blurb: Web portfolio development for renowned photographer Rodney Smith
-date: 2019-10-09T20:51:03.591Z
+date: 2020-01-02T21:51:03.591Z
 description: >-
   Over the past six months, I've had the incredible opportunity to lead a team
   of freelance developers in building the new rodneysmith.com. This site is the
