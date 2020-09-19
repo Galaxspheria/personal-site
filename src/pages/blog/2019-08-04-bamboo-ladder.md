@@ -12,7 +12,7 @@ tags:
 ---
 ![](/img/blbackground-2x.jpg)
 
-![](/img/screen-shot-2019-08-04-at-7.11.50-pm.png)
+![](/img/screen-shot-2019-08-04-at-7.11.50-pm.jpg)
 
 ![](/img/screen-shot-2019-08-04-at-7.12.06-pm.png)
 

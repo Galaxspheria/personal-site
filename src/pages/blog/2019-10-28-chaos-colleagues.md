@@ -38,7 +38,7 @@ Here are some early game modes we've been experimenting with and planning:
 
 ...and so much more! The above games are mostly designed to be played on a table or in a dollhouse-style room, where the massive VR player can easily interact with rooms full of much smaller partygoers. There are many other models that would work well for this format - they're just waiting to be discovered!
 
-![null](/img/chaoscolleagues2.png)
+![null](/img/chaoscolleagues2.jpg)
 
 ## How we built it
 

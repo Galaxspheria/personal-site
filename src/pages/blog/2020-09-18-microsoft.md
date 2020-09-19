@@ -19,7 +19,7 @@ Total labels for stacked visuals in action (shipped in September!):
 
 ![null](/img/screen-shot-2020-09-18-at-4.28.52-pm.png)
 
-![null](/img/screen-shot-2020-09-18-at-4.29.21-pm.png)
+![null](/img/screen-shot-2020-09-18-at-4.29.21-pm.jpg)
 
 Bonus points, my live collaboration hackathon project:
 
