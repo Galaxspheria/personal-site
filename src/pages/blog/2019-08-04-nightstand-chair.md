@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Nightstand Chair
 image: >-
-  /img/nightstandchair_2018-apr-12_01-28-30am-000_customizedview18487235753_png.png
+  /img/nightstandchair_2018-apr-12_01-28-30am-000_customizedview18487235753_png.jpg
 color: '#751f1e'
 blurb: Convertible space-saving nightstand that also functions as an extra chair
 date: 2018-04-12T02:40:00.896Z
@@ -14,7 +14,7 @@ tags:
   - fusion360
   - industrial design
 ---
-![](/img/nightstandchair_2018-apr-12_01-28-30am-000_customizedview18487235753_png.png)
+![](/img/nightstandchair_2018-apr-12_01-28-30am-000_customizedview18487235753_png.jpg)
 
 ![](/img/nightstandchair_v5_2018-may-23_09-22-03pm-000_customizedview3948875323_png.png)
 

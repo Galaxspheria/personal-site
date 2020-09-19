@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Expreseeva
-image: /img/stand_v1_2019-apr-04_08-41-58pm-000_customizedview16761212674_png.png
+image: /img/stand_v1_2019-apr-04_08-41-58pm-000_customizedview16761212674.jpg
 color: '#e5b108'
 blurb: Intelligent letterboards for nonverbal children on the Autism spectrum
 date: 2019-04-28T01:19:05.886Z
