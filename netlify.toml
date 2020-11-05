@@ -5,8 +5,14 @@
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
-  from = "https://zoom.hunterghancock.com/*"
-  to = "https://us02web.zoom.us/j/8367952913?pwd=YTdoUDF5SmM5UW5FU3JySEpXWG1qdz09"
-[[redirects]]
   from = "https://zoom.hunterghancock.com"
   to = "https://us02web.zoom.us/j/8367952913?pwd=YTdoUDF5SmM5UW5FU3JySEpXWG1qdz09"
+  force = true
+[[redirects]]
+  from = "https://zoom.hunterghancock.com/"
+  to = "https://us02web.zoom.us/j/8367952913?pwd=YTdoUDF5SmM5UW5FU3JySEpXWG1qdz09"
+  force = true
+[[redirects]]
+  from = "https://zoom.hunterghancock.com/*"
+  to = "https://us02web.zoom.us/j/8367952913?pwd=YTdoUDF5SmM5UW5FU3JySEpXWG1qdz09"
+
