@@ -15,7 +15,7 @@ tags:
   - angular
   - typescript
 ---
-Total labels for stacked visuals in action ([shipped in September](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/#Total_labels_stacked)!):
+Total labels for stacked visuals in action ([shipped in September](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/#Total_labels_stacked), [credited in November](https://powerbi.microsoft.com/en-us/blog/power-bi-november-2020-feature-summary/#total_labels)!):
 
 ![null](/img/screen-shot-2020-09-18-at-4.28.52-pm.png)
 
