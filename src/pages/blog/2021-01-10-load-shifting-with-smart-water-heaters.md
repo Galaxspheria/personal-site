@@ -5,7 +5,7 @@ image: /img/smartwaterheatersimage.jpg
 color: '#6786bc'
 blurb: >-
   Proposing a deep learning approach to load balancing the residential power
-  grid - DOE JUMP into STEM Winner
+  grid
 date: 2020-12-31T06:27:30.679Z
 description: >-
   This semester, I worked with a team of two other Georgia Tech students to
